@@ -5,6 +5,10 @@
 # Gabarito do backend: NÃO vai para o repositório dos alunos.
 backend-final/
 
+# Material do professor (mantido fora do repositório dos alunos).
+ROTEIRO-AULA.md
+*.pdf
+
 # Dependências (recriadas com `npm install`).
 node_modules/
 
