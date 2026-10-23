@@ -6,6 +6,9 @@
 ROTEIRO-AULA.md
 *.pdf
 
+# Gabarito da aula atual: liberar depois.
+aula_23-10/backend-final/
+
 # Dependências (recriadas com `npm install`).
 node_modules/
 
